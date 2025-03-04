@@ -15,7 +15,7 @@ function Skills()
                           style={{ transitionDelay: `${index * 100}ms` }}
                         >
                           <img src={skill.icon} alt={skill.name} className="w-16 h-16 mb-4" />
-                          <span className="text-center text-cyan-100">{skill.name}</span>
+                          <span className="text-center text-[#ebd0ff]">{skill.name}</span>
                         </div>
                       ))}
                     </div>
