@@ -26,21 +26,9 @@ function EventTimeline() {
                           <Calendar className="text-[#a22afd]" size={20} />
                         </div>
                         <p className="text-[#fbf6ff]   mb-4">Sep 2024 - Present</p>
-                        <ul className="text-[#efd9ff] space-y-2">
-                          <li className="flex items-start">
-                            <span className="text-[#a22afd]
-                              mr-2">•</span>
-                            <span>Delivered 5+ full-stack projects for college clubs and the Training and Placement Department</span>
-                          </li>
-                          <li className="flex items-start">
-                            <span className="text-[#a22afd] mr-2">•</span>
-                            <span>Enhanced functionality for 500+ users</span>
-                          </li>
-                          <li className="flex items-start">
-                            <span className="text-[#a22afd] mr-2">•</span>
-                            <span>Improved user interaction by 30% and reduced bounce rates by 15%</span>
-                          </li>
-                        </ul>
+                        <p className=" space-y-2">
+                          Developed multiple full-stack projects for college clubs and the Training and Placement Department, enhancing functionality for a large user base.
+                        </p>
                       </div>
                     </div>
                     {/* Timeline node */}
@@ -70,20 +58,9 @@ function EventTimeline() {
                           <Building2 className="text-[#a22afd]" size={20} />
                         </div>
                         <p className="text-[#fbf6ff]  mb-4">R3 SYSTEMS INDIA PVT. LTD. | Jul 2024</p>
-                        <ul className="text-[#efd9ff] space-y-2">
-                          <li className="flex items-start">
-                            <span className="text-[#a22afd] mr-2">•</span>
-                            <span>Gained expertise in Java Core Advanced, JDBC, Servlets, and Spring Framework</span>
-                          </li>
-                          <li className="flex items-start">
-                            <span className="text-[#a22afd] mr-2">•</span>
-                            <span>Developed 3+ scalable web applications</span>
-                          </li>
-                          <li className="flex items-start">
-                            <span className="text-[#a22afd] mr-2">•</span>
-                            <span>Optimized database interactions, improving query performance by 30%</span>
-                          </li>
-                        </ul>
+                        <p className="space-y-2">
+                        Gained expertise in Java, JDBC, Servlets, and Spring, developing scalable web applications and optimizing database performance.
+                          </p>
                       </div>
                     </div>
                   </div>
@@ -101,20 +78,9 @@ function EventTimeline() {
                           <Calendar className="text-[#a22afd]" size={20} />
                         </div>
                         <p className="text-[#fbf6ff]  mb-4">Sep 2024 - Present</p>
-                        <ul className="text-[#efd9ff]  space-y-2">
-                          <li className="flex items-start">
-                            <span className="text-[#a22afd] mr-2">•</span>
-                            <span>Delivered 5+ full-stack projects for college clubs and the Training and Placement Department</span>
-                          </li>
-                          <li className="flex items-start">
-                            <span className="text-[#a22afd] mr-2">•</span>
-                            <span>Enhanced functionality for 500+ users</span>
-                          </li>
-                          <li className="flex items-start">
-                            <span className="text-[#a22afd] mr-2">•</span>
-                            <span>Improved user interaction by 30% and reduced bounce rates by 15%</span>
-                          </li>
-                        </ul>
+                        <p className="  space-y-2">
+                          
+                        </p>
                       </div>
                     </div>
                     {/* Timeline node */}
